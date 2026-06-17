@@ -1,0 +1,15 @@
+
+
+BIG DATA SENTIMENT ANALYSIS REPORT
+==================================
+
+Total Reviews : 3534
+
+Positive Reviews : 1539
+
+Negative Reviews : 740
+
+Neutral Reviews : 1255
+
+Project Completed Successfully
+
